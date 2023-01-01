@@ -122,7 +122,8 @@ form {
   display: flex;
   flex-direction: row;
   gap: 10px;
-  position: top, sticky;
+  position: fixed;
+  bottom: O;
 }
 
 textarea {
