@@ -8,14 +8,18 @@
 }
 
 body {
-  background-image: url(assets/font1.svg);
+  background-image: url(assets/font1.png);
   /*#343541;*/
   
 }
 
+div {
+  text-align: center;
+}
+
 #app {
-  width: 50vw;
-  height: 50vh;
+  width: 7vw;
+  height: 7vh;
   /*background-image: url(font.png);*/
 
   display: flex;
