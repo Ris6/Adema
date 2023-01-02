@@ -8,7 +8,10 @@
 }
 
 body {
-  background: #343541;
+  background: linear-gradient(to bottom
+  rgb(254, 225, 230), rgb(255, 151, 169), rgb(145, 0, 24), black
+);
+  /*#343541;*/
   
 }
 
