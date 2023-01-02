@@ -8,7 +8,7 @@
 }
 
 body {
-  height: 100vh;
+  height: 50vh;
   background-image: 
   linear-gradient(to right
   rgb(254, 225, 230), rgb(255, 151, 169), rgb(145, 0, 24), black
@@ -20,9 +20,9 @@ body {
 #app {
   width: 50vw;
   height: 50vh;
- /* background-image:  linear-gradient(to right
+  background-image:  linear-gradient(to right
   rgb(254, 225, 230), rgb(255, 151, 169), rgb(145, 0, 24), black
-);*/
+);
 
   display: flex;
   flex-direction: column;
